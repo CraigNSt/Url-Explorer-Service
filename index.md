@@ -8,7 +8,7 @@ Url Explorer Service comes in an msi installer. It needs to be run with elevated
 
 The service reads the MS Edge database and the Google Chrome database once every 1/2 hour.  It needs to log in under your windows account in order to do so.  
 
-[Link]()
+[UrlExplorer.exe](https://github.com/CraigNSt/Url-Explorer-Service/releases/download/1.0.0.5/UrlExplorer.exe)
 
 ##  URL Explorer App
 
