@@ -8,35 +8,13 @@ Url Explorer Service comes in an msi installer. It needs to be run with elevated
 
 The service reads the MS Edge database and the Google Chrome database once every 1/2 hour.  It needs to log in under your windows account in order to do so.  
 
-[UrlExplorer.exe](https://github.com/CraigNSt/Url-Explorer-Service/releases/download/1.0.0.5/UrlExplorer.exe)   [UrlExplorer.msi](https://github.com/CraigNSt/Url-Explorer-Service/releases/download/1.0.0.5/UrlExplorer.msi)
+[UrlExplorer.exe](https://github.com/CraigNSt/Url-Explorer-Service/releases/download/1.0.0.5/UrlExplorer.exe)     [UrlExplorer.msi](https://github.com/CraigNSt/Url-Explorer-Service/releases/download/1.0.0.5/UrlExplorer.msi)
 
 ##  URL Explorer App
 
 This service was written with the URL Explorer app in mind.  It lets you easily access URLs on a share from your Android device as well as uploading those URL's to the device.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CraigNSt/Url-Explorer-Service/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
