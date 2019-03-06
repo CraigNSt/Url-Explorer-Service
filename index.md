@@ -18,4 +18,4 @@ Available on Google Play [UrlExplorer](https://play.google.com/store/apps/detail
 
 ### Support or Contact
 
-Questions comments or bugs? 
+Questions comments or bugs? [Submit Issue](https://github.com/CraigNSt/Url-Explorer-Service/issues)
