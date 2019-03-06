@@ -1,8 +1,8 @@
 ## Share your URL favorites between platforms
 
-You can use the [editor on GitHub](https://github.com/CraigNSt/Url-Explorer-Service/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Url Explorer Service runs in the background on your Windows PC and periodically extracts your bookmarks from the MS Edge Browser and from Google Chrome and saves them as urls to either a local folder or a share folder with the names MS Edge and Chrome respectively.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Url Explorer Service comes in an msi installer. It needs to be run with elevated priviledges. To install you can either use the msi installer (expert) or download UrlExplorer.exe. Right click on UrlExplorer.exe and choose "Run as administrator", it will extract Setup.exe and UrlExplorer.msi, starting the msi installer with elevated priviledges. 
 
 ### Markdown
 
