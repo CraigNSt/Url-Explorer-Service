@@ -8,7 +8,9 @@ Url Explorer Service comes in an msi installer. It needs to be run with elevated
 
 The service reads the MS Edge database and the Google Chrome database once every 1/2 hour.  It needs to log in under your windows account in order to do so.  
 
-##URL Explorer App
+[Link]()
+
+##  URL Explorer App
 
 This service was written with the URL Explorer app in mind.  It lets you easily access URLs on a share from your Android device as well as uploading those URL's to the device.
 
