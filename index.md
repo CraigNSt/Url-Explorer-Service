@@ -6,7 +6,11 @@ Url Explorer Service runs in the background on your Windows PC and periodically 
 
 Url Explorer Service comes in an msi installer. It needs to be run with elevated priviledges. To install you can either use the msi installer (expert) or download UrlExplorer.exe. Right click on UrlExplorer.exe and choose "Run as administrator", it will extract Setup.exe and UrlExplorer.msi, starting the msi installer with elevated priviledges. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The service reads the MS Edge database and the Google Chrome database once every 1/2 hour.  It needs to log in under your windows account in order to do so.  
+
+##URL Explorer App
+
+This service was written with the URL Explorer app in mind.  It lets you easily access URLs on a share from your Android device as well as uploading those URL's to the device.
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/CraigNSt/Url-Explorer-Service/blob/master/UrlExplorer.exe) and ![Image](src)
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
