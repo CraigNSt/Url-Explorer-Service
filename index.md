@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Share your URL favorites between platforms
 
 You can use the [editor on GitHub](https://github.com/CraigNSt/Url-Explorer-Service/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
