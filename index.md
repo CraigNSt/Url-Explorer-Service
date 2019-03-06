@@ -14,8 +14,8 @@ The service reads the MS Edge database and the Google Chrome database once every
 
 This service was written with the URL Explorer app in mind.  It lets you easily access URLs on a share from your Android device as well as uploading those URL's to the device.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Available on Google Play [UrlExplorer](https://play.google.com/store/apps/details?id=com.cstanley.urlexplorer).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Questions comments or bugs? 
